@@ -39,19 +39,27 @@ Complainant: callmepeterz#1300
 **Jury:** epic#9860
 
 ### Significance
-During the court, High spammed messages and reactions that is not relate to the case, then testify in Vietnamese which may result in misunderstanding for Defence lawyer. The Defendant was also prosecuted as a full citizen without juvenile privillages.
+During the court, High spammed messages and reactions that are not related to the case, then testify in Vietnamese which may result in misunderstanding for a Defence lawyer. The Defendant was also prosecuted as a full citizen without juvenile privileges.
 
-__Count 1:__ the Prosecution started with interviewing the witnesses, giving 9 different exhinits. The Defense laywer decided to rest his case after saying that Defendant action is a raid.
+__Count 1:__ the Prosecution started with interviewing the witnesses, giving 9 different exhibits. The Defense lawyer decided to rest his case after saying that Defendant action is a raid.
 
-__Count 2 & 3:__ the Prosecution then asked the Judge to confirm evidence privately as the content of the evidence is sensitive, then proceed to prove that the Defendant is having the IP address and is obtaining it illegally. 
+__Count 2 & 3:__ the Prosecution then asked the Judge to confirm evidence privately as the content of the evidence is sensitive, then proceed to prove that Defendant is having the IP address and is obtaining it illegally. 
 
 The Defense lawyer gave up and resigned on the Court during his counter-argument. 
 
-__Count 4 & 5:__ the Prosecution presented a video that was sent to the victim where a man was beheaded and shown evidences that the victim was traumatized after watching the video
+__Count 4 & 5:__ the Prosecution presented a video that was sent to the victim where a man was beheaded and shown evidence that the victim was traumatized after watching the video
 
-The Jury then considered the Defendant guilty on all counts and suggested indefinite ban because the victim is juvenile and this is a severe crimes, which the Judge agreed and followed the suggestion
+The Jury then considered Defendant guilty on all counts and suggested an indefinite ban because the victim is juvenile and this is a severe crime, which the Judge agreed and followed the suggestion
 
 ## Notes
-Initially, the Court cannot find defense lawyer for Defendant but then Dravo rejoined the server to be the lawyer for Dravo.
+Initially, the Court cannot find a defense lawyer for Defendant but then Dravo rejoined the server to be the lawyer for Dravo.
 
 The reason for the Court to proceed with only one juror is because most of the people who were contacted by the judge refused to become the Jury for this case. 
+
+## Attachments
+Exhibit 3-A, 3-B, 5, 7, and 14 were modified to hide offensive words. \
+Exhibit 6-B was modified to hide offensive keyboard background.  \
+Exhibit 10-A, 10-B, and 10-C were modified to hide the IP address.
+Exhibit 11-A was secretly presented to the Judge. \
+Exhibit 17 was removed from this report to prevent removal by storing applications. \
+Exhibit 18-A and 18-B were modified by hiding the link and thumbnail the video for security reasons.
