@@ -1,6 +1,7 @@
 # Template
 **Judge:** \
-**Defendant:** \
+**Plaintiff/Prosecutor:** \
+**Defendant/Accused:** \
 **Status:**
 
 ## Complaint
@@ -10,7 +11,6 @@
 **Court date:** \
 **Judge:** \
 **Prosecutor:** \
-**Defendant:** \
 **Defense lawyer:** \
 **Jury:**
 
