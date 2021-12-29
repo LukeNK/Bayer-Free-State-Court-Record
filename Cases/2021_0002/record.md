@@ -1,6 +1,6 @@
 # 2021_0002: Blu aggression in Fidelissma
 **Judge:** Luke Nguyen Khanh#6053\
-**Defendant:** BluBoy1#3116\
+**Accused:** BluBoy1#3116\
 **Status:** Waiting for trial
 
 ## Complaint
@@ -74,7 +74,7 @@ Complainant: zawch#1197 and callmepeterz#1300
 **Court date:** 20:00 29/12/2021\
 **Judge:** Luke Nguyen Khanh#6053\
 **Prosecutor:** callmepeterz#1300, zawch#1197\
-**Defendant:** BluBoy1#3116\
+**Accused:** BluBoy1#3116\
 **Jury:**
 
 ### Significance
