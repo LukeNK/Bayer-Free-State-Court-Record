@@ -70,14 +70,15 @@ Date: 28/12/2021
 Complainant: zawch#1197 and callmepeterz#1300
 
 ## Court session
-**Session message link:** \
+**Session message link:** https://discord.com/channels/625337372594143232/680277846270148665/925735163558760458\
 **Court date:** 20:00 29/12/2021\
 **Judge:** Luke Nguyen Khanh#6053\
 **Prosecutor:** callmepeterz#1300, zawch#1197\
 **Accused:** BluBoy1#3116\
-**Jury:**
+**Jury:** Oofie#7001, thesleanda#1945, TranLam#0359
 
 ### Significance
+There is no defense lawyer for this trial and the Accused left the server before the trial.
 
 ## Notes
 
