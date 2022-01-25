@@ -22,6 +22,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        {% if path = "index.md" %}
+          <a href="/Bayer-Free-State-Court-Record">Home</a>
+        {% endif %}
+
         <p>List of all court case</p>
         {% assign sorted = site.pages %}
         {% for item in sorted %}
