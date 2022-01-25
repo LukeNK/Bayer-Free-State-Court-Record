@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2021\_0002
+title: 2021_0002
 ---
 # Blu aggression in Fidelissma
 **Judge:** Luke Nguyen Khanh#6053\
