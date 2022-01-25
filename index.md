@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Court of Justice of Bayer Free State
+# Court of Justice of the Bayer Free State
 The official static website for the Court of Justice.
 ## About
 Bayer Free State Court of Justice is the only court in the State with the responsibility to preside over all hearings and uphold the Constitution. The Court also have other unwritten responsibilities to protect the fairness and equality for Bayer Free State's citizens.
