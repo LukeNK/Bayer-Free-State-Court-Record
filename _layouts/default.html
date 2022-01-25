@@ -23,7 +23,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <p>List of all court case</p>
-        {% assign sorted = site.pages | sort %}
+        {% assign sorted = site.pages %}
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title %}
             <li>
