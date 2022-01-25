@@ -4,7 +4,7 @@ title: 2021_0000
 ---
 **Judge:** Luke Nguyen Khanh#6053\
 **Accused:** Mai Sakurajima#8618\
-**Status:** Completed
+**Status:** Guilty on all count
 
 ## Complaint
 The undersigned, on information and belief, accuses the defendant Mai Sakurajima#8618 of the following crimes:

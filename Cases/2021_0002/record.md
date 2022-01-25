@@ -5,7 +5,7 @@ title: 2021_0002
 # Blu aggression in Fidelissma
 **Judge:** Luke Nguyen Khanh#6053\
 **Accused:** BluBoy1#3116\
-**Status:** Waiting for trial
+**Status:** Guilty on all count
 
 ## Complaint
 The undersigned, on information and belief, accuses the Defendant BluBoy1#3116 of the following crimes:

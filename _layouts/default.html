@@ -22,11 +22,12 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% assign sorted = site.pages | sort %}
+        <p>List of all court case</p>
+        {% assign sorted = site.pages %}
         {% for item in sorted %}
-          {% if item.path != "index.md" and item.title%}
+          {% if item.path != "index.md" and item.title %}
             <li>
-              <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title | escape}}</a>
+              <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title | escape }}</a>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
             </li>
           {% endif %}
