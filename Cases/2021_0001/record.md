@@ -1,4 +1,7 @@
-# 2021_0001
+---
+layout: default
+title: 2021_0001
+---
 **Judge:** Luke Nguyen Khanh#6053 \
 **Defendant:**  Soup but hes a ghost#8036 \
 **Status:** Guilty on all count

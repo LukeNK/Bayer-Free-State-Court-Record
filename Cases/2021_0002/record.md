@@ -1,4 +1,8 @@
-# 2021_0002: Blu aggression in Fidelissma
+---
+layout: default
+title: 2021_0002
+---
+# Blu aggression in Fidelissma
 **Judge:** Luke Nguyen Khanh#6053\
 **Accused:** BluBoy1#3116\
 **Status:** Waiting for trial
