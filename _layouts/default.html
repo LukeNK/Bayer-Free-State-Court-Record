@@ -32,7 +32,7 @@
           {% if item.path != "index.md" and item.caseId %}
             <li>
               <a href="/Bayer-Free-State-Court-Record/{{ item.path | replace:'.md','.html' }}">
-                {% if item.title %}{{item.title}}
+                {% if item.title %}{{item.title | replace:'\_', '_'}}
                 {% else %}{{item.caseId}}
                 {% endif %}
               </a>
