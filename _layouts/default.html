@@ -32,8 +32,8 @@
           {% if item.path != "index.md" and item.caseId %}
             <li>
               <a href="/Bayer-Free-State-Court-Record/{{ item.path | replace:'.md','.html' }}">
-                {% if item.title %}{{item.title | replace:'\_', '_'}}
-                {% else %}{{item.caseId}}
+                {% if item.title %}{{ item.title }}
+                {% else %}{{ item.caseId | replace:'\_', '_' }}
                 {% endif %}
               </a>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
