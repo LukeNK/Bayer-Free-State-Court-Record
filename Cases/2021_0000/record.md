@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2021\_0000
+caseId: 2021\_0000
 ---
 **Judge:** Luke Nguyen Khanh#6053\
 **Accused:** Mai Sakurajima#8618\

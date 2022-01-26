@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2021\_0001
+caseId: 2021\_0001
 ---
 **Judge:** Luke Nguyen Khanh#6053 \
 **Defendant:**  Soup but hes a ghost#8036 \

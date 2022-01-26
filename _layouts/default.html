@@ -29,7 +29,7 @@
         <p>List of all court case</p>
         {% assign sorted = site.pages %}
         {% for item in sorted %}
-          {% if item.path != "index.md" and item.title %}
+          {% if item.path != "index.md" and item.caseId %}
             <li>
               <a href="/Bayer-Free-State-Court-Record/{{ item.path | replace:'.md','.html' }}">{{ item.title | replace:'\_','_' }}</a>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
