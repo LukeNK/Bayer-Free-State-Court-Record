@@ -66,3 +66,8 @@ Exhibit 10-A, 10-B, and 10-C were modified to hide the IP address.
 Exhibit 11-A was secretly presented to the Judge. \
 Exhibit 17 was removed from this report to prevent removal by storing applications. \
 Exhibit 18-A and 18-B were modified by hiding the link and thumbnail the video for security reasons.
+
+{% list_files files Cases/2021_0001/* %}
+{% for exhibit in files %}
+    ![Tux, the Linux mascot]({{exhibit.path}})
+{% endfor %}

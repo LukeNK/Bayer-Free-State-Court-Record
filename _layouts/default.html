@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/x-icon" href="/assets/images/logo-temp-cyan.png">
+    <link rel="icon" type="image/x-icon" href="/Bayer-Free-State-Court-Record/assets/images/logo-temp-cyan.png">
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -16,7 +16,7 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <img src="/assets/images/logo-temp.png" alt="Logo" />
+        <img src="/Bayer-Free-State-Court-Record/assets/images/logo-temp.png" alt="Logo" />
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -25,7 +25,7 @@
         {% endif %}
 
         <p>List of all court case</p>
-        {% assign sorted = site.pages %}
+        {% assign sorted = site.pages | sort: 'title' %}
         {% for item in sorted %}
           {% if item.path != "index.md" and item.caseId %}
             <li>
