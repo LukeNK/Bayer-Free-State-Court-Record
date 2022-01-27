@@ -67,7 +67,8 @@ Exhibit 11-A was secretly presented to the Judge. \
 Exhibit 17 was removed from this report to prevent removal by storing applications. \
 Exhibit 18-A and 18-B were modified by hiding the link and thumbnail the video for security reasons.
 
-{% list_files files Cases/2021_0001/* %}
-{% for exhibit in files %}
-    ![Tux, the Linux mascot]({{exhibit.path}})
+{% for exhibit in site.static_files %}
+    {% if exhibit.path contains 'Cases/2021_0001' %}
+        ![Tux, the Linux mascot]({{exhibit.path}})
+    {% endif %}
 {% endfor %}
