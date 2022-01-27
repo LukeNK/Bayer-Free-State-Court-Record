@@ -68,8 +68,7 @@ Exhibit 17 was removed from this report to prevent removal by storing applicatio
 Exhibit 18-A and 18-B were modified by hiding the link and thumbnail the video for security reasons.
 
 {% for exhibit in site.static_files %}
-    {% if exhibit.path contains 'Cases/2021_0001' %}
-        [{{exhibit.path}}](/Bayer-Free-State-Court-Record/{{exhibit.path}})
-
-    {% endif %}
+    {%- if exhibit.path contains 'Cases/2021_0001' -%}
+- [{{exhibit.path}}](/Bayer-Free-State-Court-Record/{{exhibit.path}})
+    {%- endif -%}
 {% endfor %}
