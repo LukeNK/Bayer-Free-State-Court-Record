@@ -69,6 +69,6 @@ Exhibit 18-A and 18-B were modified by hiding the link and thumbnail the video f
 
 {% for exhibit in site.static_files %}
     {%- if exhibit.path contains 'Cases/2021_0001' -%}
-        ![Exhibits]({{exhibit.path}})
+        ![Exhibits](/Bayer-Free-State-Court-Record/{{exhibit.path}})
     {%- endif -%}
 {% endfor %}
