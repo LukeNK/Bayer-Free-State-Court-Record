@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Template
+case-Id: year\_index (remove hypen in variable name) 
 ---
 # Template
 **Judge:** \
