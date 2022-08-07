@@ -1,6 +1,6 @@
 ---
 layout: default
-caseId: 2022\_00001
+caseId: 2022\_0001
 ---
 **Judge:** Luke Nguyen Khanh #6053 \
 **Prosecutor:** callmepeter#1300 \
