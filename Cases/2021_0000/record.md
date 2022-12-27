@@ -42,3 +42,8 @@ This is the first ever court case being documented after the Great Migration era
 The Defendant never join the Bayer Free State after serving his sentence.
 
 ## Attachments
+{% for exhibit in site.static_files %}
+    {% if exhibit.path contains 'Cases/2021_0000' %}
+- [{{exhibit.path}}](/Bayer-Free-State-Court-Record/{{exhibit.path}})
+    {% endif %}
+{% endfor %}
