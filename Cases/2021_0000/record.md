@@ -4,7 +4,7 @@ caseId: 2021\_0000
 ---
 **Judge:** Luke Nguyen Khanh#6053\
 **Accused:** Mai Sakurajima#8618\
-**Status:** Guilty on all count
+**Status:** Guilty on all count, sentence served
 
 ## Complaint
 The undersigned, on information and belief, accuses the defendant Mai Sakurajima#8618 of the following crimes:
@@ -19,14 +19,26 @@ On November 6th, 2021, at 14:33 UTC+7, the Defendant knowingly did commission an
 
 ## Court session
 **Session message link:** https://discord.com/channels/625337372594143232/680277846270148665/906740488873324554\
-**Court date:** 21:00 6/11/2021\
+**Court date:** 10:00 7/11/2021\
 **Judge:** Luke Nguyen Khanh#6053\
 **Prosecutor:** callmepeterz#1300\
 **Defense lawyer:** jaerri#5755\
-**Jury:**
+**Jury:** MGtyle#4386, Katholitude#9102, MichaelMai#6614
 
 ### Significance
+Initially, the Court was planned to happen on 21:00 6/11, but because the Judge overslept, he decided to postpone the trial to next day. 
+
+The Prosecutor proved that the Defendant clearly attempted to spread a valid IP address, and encourage others to leak it to other sources.
+
+The Defense lawyer point out that the IP address does not lead to any individual, and the IP address does not belong to any Bayer Free State citizens. Moreover, the IP address haven't been active since 2019.
+
+The Prosecutor counter-arguement is that despite it does not inflict any damage on the victim, the intention of the Defendant is what should be consider.
+
+The Jury return unanimous guilty verdict. The Defense lawyer suggested the sentence of 7 days mute. The Judge considering that the Defendant is inactive in the server decided to impose the sentence of 7 days ban.
 
 ## Notes
+This is the first ever court case being documented after the Great Migration era, and Luke's first trial he presided.
+
+The Defendant never join the Bayer Free State after serving his sentence.
 
 ## Attachments

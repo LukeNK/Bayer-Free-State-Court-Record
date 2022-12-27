@@ -4,7 +4,7 @@ caseId: 2021\_0001
 ---
 **Judge:** Luke Nguyen Khanh#6053 \
 **Defendant:**  Soup but hes a ghost#8036 \
-**Status:** Guilty on all count
+**Status:** Guilty on all count, sentence repealed, sentence served
 
 ## Complaint
 The undersigned, on information and belief, accuses the Defendant Soup but hes a ghost#8036 of the following crimes:
@@ -72,3 +72,7 @@ Exhibit 18-A and 18-B were modified by hiding the link and thumbnail the video f
 - [{{exhibit.path}}](/Bayer-Free-State-Court-Record/{{exhibit.path}})
     {% endif %}
 {% endfor %}
+
+## Indefinite ban repealed
+**Imposing judge:** jaerri#5755 \
+Due to the adoption of the new 2022 Constitution, the Defendant's indefinite ban was deemed unconstitutional. The Defendant continue to serve the rest of the 180 days ban sentence according to Clause (d), Section 1, Article 9 of the 2022 Criminal Act, which was lifted on Thursday, 16th of June 2022. 
